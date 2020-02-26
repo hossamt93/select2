@@ -2,7 +2,7 @@
 > `npm install --save @types/select2x`
 
 # Tip
- This repository is forked from @types/select2 fixing the conflict problem betweenn @types/node and @types/requirejs.
+ This repository is forked from @types/select2 fixing the conflict problem between @types/node and @types/requirejs.
 
 # Summary
 This package contains type definitions for Select2 ( http://ivaynberg.github.com/select2/ ).
