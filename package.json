@@ -1,23 +1,22 @@
 {
   "_args": [
     [
-      "@types/select2x@4.0.48",
-      "D:\\Work\\Queuing 2020\\code"
+      "@types/select2@4.0.48"
     ]
   ],
   "_development": true,
-  "_from": "@types/select2x@4.0.48",
-  "_id": "@types/select2x@4.0.48",
+  "_from": "@types/select2@4.0.48",
+  "_id": "@types/select2@4.0.48",
   "_inBundle": false,
   "_integrity": "sha512-C1cUbfwKBqlO+/3OWQKMajA4D/d5SvI9rSGoXCa7FQI9B1p1iRqZzetkfpGPY44BP1Y8emHL17rdUJYZEyzN+Q==",
-  "_location": "/@types/select2x",
+  "_location": "/@types/select2",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@types/select2x@4.0.48",
-    "name": "@types/select2x",
-    "escapedName": "@types/select2x",
+    "raw": "@types/select2@4.0.48",
+    "name": "@types/select2",
+    "escapedName": "@types/select2",
     "scope": "@types",
     "rawSpec": "4.0.48",
     "saveSpec": null,
@@ -26,9 +25,9 @@
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/@types/select2x/-/select2x-4.0.48.tgz",
+  "_resolved": "https://registry.npmjs.org/@types/select2/-/select2-4.0.48.tgz",
   "_spec": "4.0.48",
-  "_where": "D:\\Work\\Queuing 2020\\code",
+  "_where": "",
   "bugs": {
     "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
   },
@@ -50,7 +49,7 @@
   "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
   "license": "MIT",
   "main": "",
-  "name": "@types/select2x",
+  "name": "@types/select2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
