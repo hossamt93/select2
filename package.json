@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      "@types/select2x@4.0.48",
+      "D:\\Work\\Queuing 2020\\code"
+    ]
+  ],
+  "_development": true,
+  "_from": "@types/select2x@4.0.48",
+  "_id": "@types/select2x@4.0.48",
+  "_inBundle": false,
+  "_integrity": "sha512-C1cUbfwKBqlO+/3OWQKMajA4D/d5SvI9rSGoXCa7FQI9B1p1iRqZzetkfpGPY44BP1Y8emHL17rdUJYZEyzN+Q==",
+  "_location": "/@types/select2x",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/select2x@4.0.48",
+    "name": "@types/select2x",
+    "escapedName": "@types/select2x",
+    "scope": "@types",
+    "rawSpec": "4.0.48",
+    "saveSpec": null,
+    "fetchSpec": "4.0.48"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/select2x/-/select2x-4.0.48.tgz",
+  "_spec": "4.0.48",
+  "_where": "D:\\Work\\Queuing 2020\\code",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "contributors": [
+    {
+      "name": "Boris Yankov",
+      "url": "https://github.com/borisyankov"
+    },
+    {
+      "name": "denisname",
+      "url": "https://github.com/denisname"
+    }
+  ],
+  "dependencies": {
+    "@types/jquery": "*",
+    "@types/node": "*"
+  },
+  "description": "TypeScript definitions for Select2",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/select2x",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.7.5",
+  "types": "index",
+  "typesPublisherContentHash": "6cf34e596ef9a878aa93ce1337a0b4d11d28084864b32cdaec17bb54b3683bec",
+  "version": "4.0.48"
+}
