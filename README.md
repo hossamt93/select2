@@ -1,3 +1,6 @@
+# Installation
+>` npm i https://github.com/hossamt93/select2`
+
 
 # Tip
  This repository is forked from @types/select2 fixing the conflict problem between @types/node and @types/requirejs.
