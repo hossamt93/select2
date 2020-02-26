@@ -1,5 +1,3 @@
-# Installation
-> `npm install --save @types/select2x`
 
 # Tip
  This repository is forked from @types/select2 fixing the conflict problem between @types/node and @types/requirejs.
